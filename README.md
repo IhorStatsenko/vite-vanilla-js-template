@@ -1,1 +1,0 @@
-# vite-vanilla-js-template
