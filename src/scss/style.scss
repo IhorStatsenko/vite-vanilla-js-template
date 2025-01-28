@@ -1,0 +1,16 @@
+@use 'normalize.css';
+@use 'base' as *;
+@use 'variables' as *;
+// @import 'normalize.css';
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  background-color: blueviolet;
+
+  .test {
+    width: 200px;
+    height: 100px;
+    background-color: $color-primary;
+  }
+}

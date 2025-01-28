@@ -1,3 +1,5 @@
+### gh-pages setup
+
 1. create repository
 2. open in gh desctop
 3. npm create vite@latest
@@ -33,3 +35,8 @@ export default defineConfig({
 11. npm run deploy
 
 12. use https://<your-username>.github.io/<repository-name>/
+
+### add-test-scss
+
+1. npm add -D sass
+2. npm install normalize.css
